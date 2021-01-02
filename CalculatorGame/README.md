@@ -1,2 +1,2 @@
-# MiniCalculatorGame
-A mini Calculator game I made in C
+# Mini Calculator Game
+A mini calculator game I made in C
